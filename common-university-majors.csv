@@ -1,0 +1,313 @@
+code,label,value
+AGR,"Agriculture, General",AGR-AgricultureGeneral
+AGR,Agribusiness Operations,AGR-AgribusinessOperations
+AGR,Agricultural Business & Management,AGR-AgriculturalBusinessManagement
+AGR,Agricultural Economics,AGR-AgriculturalEconomics
+AGR,Agricultural Mechanization,AGR-AgriculturalMechanization
+AGR,Agricultural Production,AGR-AgriculturalProduction
+AGR,Agronomy & Crop Science,AGR-AgronomyCropScience
+AGR,Animal Sciences,AGR-AnimalSciences
+AGR,Food Sciences & Technology,AGR-FoodSciencesTechnology
+AGR,Horticulture Operations & Management,AGR-HorticultureOperationsManagement
+AGR,Horticulture Science,AGR-HorticultureScience
+AGR,"Natural Resources Conservation, General",AGR-NaturalResourcesConservationGeneral
+AGR,Environmental Science,AGR-EnvironmentalScience
+AGR,Forestry,AGR-Forestry
+AGR,Natural Resources Management,AGR-NaturalResourcesManagement
+AGR,Wildlife & Wildlands Management,AGR-WildlifeWildlandsManagement
+AGR,– not listed here –,AGR-notlistedhere
+ARC,"Architecture, General",ARC-ArchitectureGeneral
+ARC,Architectural Environmental Design,ARC-ArchitecturalEnvironmentalDesign
+ARC,City/Urban/Regional Planning,ARC-CityUrbanRegionalPlanning
+ARC,Interior Architecture,ARC-InteriorArchitecture
+ARC,Landscape Architecture,ARC-LandscapeArchitecture
+ARC,– not listed here –,ARC-notlistedhere
+ETH,"Area Studies, General (e.g., African, Middle Eastern)",ETH-AreaStudiesGeneralegAfricanMiddleEastern
+ETH,Asian Area Studies,ETH-AsianAreaStudies
+ETH,European Area Studies,ETH-EuropeanAreaStudies
+ETH,Latin American Area Studies,ETH-LatinAmericanAreaStudies
+ETH,North American Area Studies,ETH-NorthAmericanAreaStudies
+ETH,"Ethnic & Minority Studies, General",ETH-EthnicMinorityStudiesGeneral
+ETH,African American Studies,ETH-AfricanAmericanStudies
+ETH,American Indian/Native American Studies,ETH-AmericanIndianNativeAmericanStudies
+ETH,Latino/Chicano Studies,ETH-LatinoChicanoStudies
+ETH,Women’s Studies,ETH-WomensStudies
+ETH,Liberal Arts & General Studies,ETH-LiberalArtsGeneralStudies
+ETH,Library Science,ETH-LibraryScience
+ETH,Multi/Interdisciplinary Studies,ETH-MultiInterdisciplinaryStudies
+ETH,– not listed here –,ETH-notlistedhere
+ART,"Art, General",ART-ArtGeneral
+ART,"Art History, Criticism & Conservation",ART-ArtHistoryCriticismConservation
+ART,Fine/Studio Arts,ART-FineStudioArts
+ART,Cinema/Film,ART-CinemaFilm
+ART,Cinematography/Film/Vide Production,ART-CinematographyFilmVideProduction
+ART,Dance,ART-Dance
+ART,"Design & Visual Communications, General",ART-DesignVisualCommunicationsGeneral
+ART,Fashion/Apparel Design,ART-FashionApparelDesign
+ART,Graphic Design,ART-GraphicDesign
+ART,Industrial Design,ART-IndustrialDesign
+ART,Interior Design,ART-InteriorDesign
+ART,"Music, General",ART-MusicGeneral
+ART,"Music, Performance",ART-MusicPerformance
+ART,"Music, Theory & Composition",ART-MusicTheoryComposition
+ART,Photography,ART-Photography
+ART,Theatre Arts/Drama,ART-TheatreArtsDrama
+ART,– not listed here –,ART-notlistedhere
+BIZ,Accounting,BIZ-Accounting
+BIZ,Accounting Technician,BIZ-AccountingTechnician
+BIZ,"Business Administration & Management, General",BIZ-BusinessAdministrationManagementGeneral
+BIZ,Hotel/Motel Management,BIZ-HotelMotelManagement
+BIZ,Human Resources Development/Training,BIZ-HumanResourcesDevelopmentTraining
+BIZ,Human Resources Management,BIZ-HumanResourcesManagement
+BIZ,International Business Management,BIZ-InternationalBusinessManagement
+BIZ,Labor/Industrial Relations,BIZ-LaborIndustrialRelations
+BIZ,Logistics & Materials Management,BIZ-LogisticsMaterialsManagement
+BIZ,Marketing Management & Research,BIZ-MarketingManagementResearch
+BIZ,Office Supervision & Management,BIZ-OfficeSupervisionManagement
+BIZ,Operations Management & Supervision,BIZ-OperationsManagementSupervision
+BIZ,Organizational Behavior,BIZ-OrganizationalBehavior
+BIZ,Purchasing/Procurement/Contracts Management,BIZ-PurchasingProcurementContractsManagement
+BIZ,Restaurant/Food Services Management,BIZ-RestaurantFoodServicesManagement
+BIZ,Small Business Management/Operations,BIZ-SmallBusinessManagementOperations
+BIZ,Travel/Tourism Management,BIZ-TravelTourismManagement
+BIZ,"Business/Management Quantitative Methods, General",BIZ-BusinessManagementQuantitativeMethodsGeneral
+BIZ,Actuarial Science,BIZ-ActuarialScience
+BIZ,Business/Managerial Economics,BIZ-BusinessManagerialEconomics
+BIZ,"Finance, General",BIZ-FinanceGeneral
+BIZ,Banking & Financial Support Services,BIZ-BankingFinancialSupportServices
+BIZ,Financial Planning & Services,BIZ-FinancialPlanningServices
+BIZ,Insurance & Risk Management,BIZ-InsuranceRiskManagement
+BIZ,Investments & Securities,BIZ-InvestmentsSecurities
+BIZ,Management Information Systems,BIZ-ManagementInformationSystems
+BIZ,Real Estate,BIZ-RealEstate
+BIZ,"Sales, Merchandising, & Marketing, General",BIZ-SalesMerchandisingMarketingGeneral
+BIZ,Fashion Merchandising,BIZ-FashionMerchandising
+BIZ,Tourism & Travel Marketing,BIZ-TourismTravelMarketing
+BIZ,Secretarial Studies & Office Administration,BIZ-SecretarialStudiesOfficeAdministration
+BIZ,– not listed here –,BIZ-notlistedhere
+COM,"Communications, General",COM-CommunicationsGeneral
+COM,Advertising,COM-Advertising
+COM,Digital Communications/Media,COM-DigitalCommunicationsMedia
+COM,"Journalism, Broadcast",COM-JournalismBroadcast
+COM,"Journalism, Print",COM-JournalismPrint
+COM,Mass Communications,COM-MassCommunications
+COM,Public Relations & Organizational Communication,COM-PublicRelationsOrganizationalCommunication
+COM,Radio & Television Broadcasting,COM-RadioTelevisionBroadcasting
+COM,"Communications Technology, General",COM-CommunicationsTechnologyGeneral
+COM,Graphic & Printing Equipment Operation,COM-GraphicPrintingEquipmentOperation
+COM,Multimedia/Animation/Special Effects,COM-MultimediaAnimationSpecialEffects
+COM,Radio & Television Broadcasting Technology,COM-RadioTelevisionBroadcastingTechnology
+COM,– not listed here –,COM-notlistedhere
+FAM,"Family & Consumer Sciences, General",FAM-FamilyConsumerSciencesGeneral
+FAM,Adult Development & Aging/Gerontology,FAM-AdultDevelopmentAgingGerontology
+FAM,Child Care Services Management,FAM-ChildCareServicesManagement
+FAM,Child Development,FAM-ChildDevelopment
+FAM,Consumer & Family Economics,FAM-ConsumerFamilyEconomics
+FAM,Food & Nutrition,FAM-FoodNutrition
+FAM,Textile & Apparel,FAM-TextileApparel
+FAM,"Parks, Recreation, & Leisure, General",FAM-ParksRecreationLeisureGeneral
+FAM,Exercise Science/Physiology/Kinesiology,FAM-ExerciseSciencePhysiologyKinesiology
+FAM,Health & Physical Education/Fitness,FAM-HealthPhysicalEducationFitness
+FAM,Parks/Rec/Leisure Facilities Management,FAM-ParksRecLeisureFacilitiesManagement
+FAM,Sport & Fitness Administration/Management,FAM-SportFitnessAdministrationManagement
+FAM,"Personal Services, General",FAM-PersonalServicesGeneral
+FAM,Cosmetology/Hairstyling,FAM-CosmetologyHairstyling
+FAM,Culinary Arts/Chef Training,FAM-CulinaryArtsChefTraining
+FAM,Funeral Services & Mortuary Science,FAM-FuneralServicesMortuaryScience
+FAM,"Protective Services, General",FAM-ProtectiveServicesGeneral
+FAM,Corrections,FAM-Corrections
+FAM,Criminal Justice,FAM-CriminalJustice
+FAM,Fire Protection & Safety Technology,FAM-FireProtectionSafetyTechnology
+FAM,Law Enforcement,FAM-LawEnforcement
+FAM,Military Technologies,FAM-MilitaryTechnologies
+FAM,"Public Administration & Services, General",FAM-PublicAdministrationServicesGeneral
+FAM,Community Organization & Advocacy,FAM-CommunityOrganizationAdvocacy
+FAM,Public Administration,FAM-PublicAdministration
+FAM,Public Affairs & Public Policy Analysis,FAM-PublicAffairsPublicPolicyAnalysis
+FAM,Social Work,FAM-SocialWork
+FAM,– not listed here –,FAM-notlistedhere
+MAT,"Computer & Information Sciences, General",MAT-ComputerInformationSciencesGeneral
+MAT,Computer Networking/Telecommunications,MAT-ComputerNetworkingTelecommunications
+MAT,Computer Science & Programming,MAT-ComputerScienceProgramming
+MAT,Computer Software & Media Applications,MAT-ComputerSoftwareMediaApplications
+MAT,Computer System Administration,MAT-ComputerSystemAdministration
+MAT,Data Management Technology,MAT-DataManagementTechnology
+MAT,Information Science,MAT-InformationScience
+MAT,Webpage Design,MAT-WebpageDesign
+MAT,"Mathematics, General",MAT-MathematicsGeneral
+MAT,Applied Mathematics,MAT-AppliedMathematics
+MAT,Statistics,MAT-Statistics
+MAT,– not listed here –,MAT-notlistedhere
+EDU,Counseling & Student Services,EDU-CounselingStudentServices
+EDU,Educational Administration,EDU-EducationalAdministration
+EDU,Special Education,EDU-SpecialEducation
+EDU,"Teacher Education, General",EDU-TeacherEducationGeneral
+EDU,Curriculum & Instruction,EDU-CurriculumInstruction
+EDU,Early Childhood Education,EDU-EarlyChildhoodEducation
+EDU,Elementary Education,EDU-ElementaryEducation
+EDU,Junior High/Middle School Education,EDU-JuniorHighMiddleSchoolEducation
+EDU,Postsecondary Education,EDU-PostsecondaryEducation
+EDU,Secondary Education,EDU-SecondaryEducation
+EDU,Teacher Assisting/Aide Education,EDU-TeacherAssistingAideEducation
+EDU,"Teacher Education, Subject-Specific",EDU-TeacherEducationSubjectSpecific
+EDU,Agricultural Education,EDU-AgriculturalEducation
+EDU,Art Education,EDU-ArtEducation
+EDU,Business Education,EDU-BusinessEducation
+EDU,Career & Technical Education,EDU-CareerTechnicalEducation
+EDU,English-as-a-Second-Language Education,EDU-EnglishasaSecondLanguageEducation
+EDU,English/Language Arts Education,EDU-EnglishLanguageArtsEducation
+EDU,Foreign Languages Education,EDU-ForeignLanguagesEducation
+EDU,Health Education,EDU-HealthEducation
+EDU,Mathematics Education,EDU-MathematicsEducation
+EDU,Music Education,EDU-MusicEducation
+EDU,Physical Education & Coaching,EDU-PhysicalEducationCoaching
+EDU,Science Education,EDU-ScienceEducation
+EDU,Social Studies/Sciences Education,EDU-SocialStudiesSciencesEducation
+EDU,– not listed here –,EDU-notlistedhere
+ENG,"Engineering (Pre-Engineering), General",ENG-EngineeringPreEngineeringGeneral
+ENG,Aerospace/Aeronautical Engineering,ENG-AerospaceAeronauticalEngineering
+ENG,Agricultural/Bioengineering,ENG-AgriculturalBioengineering
+ENG,Architectural Engineering,ENG-ArchitecturalEngineering
+ENG,Biomedical Engineering,ENG-BiomedicalEngineering
+ENG,Chemical Engineering,ENG-ChemicalEngineering
+ENG,Civil Engineering,ENG-CivilEngineering
+ENG,Computer Engineering,ENG-ComputerEngineering
+ENG,Construction Engineering/Management,ENG-ConstructionEngineeringManagement
+ENG,"Electrical, Electronics & Communications Engineering",ENG-ElectricalElectronicsCommunicationsEngineering
+ENG,Environmental Health Engineering,ENG-EnvironmentalHealthEngineering
+ENG,Industrial Engineering,ENG-IndustrialEngineering
+ENG,Mechanical Engineering,ENG-MechanicalEngineering
+ENG,Nuclear Engineering,ENG-NuclearEngineering
+ENG,– not listed here –,ENG-notlistedhere
+END,"Drafting/CAD Technology, General",END-DraftingCADTechnologyGeneral
+END,Architectural Drafting/CAD Technology,END-ArchitecturalDraftingCADTechnology
+END,Mechanical Drafting/CAD Technology,END-MechanicalDraftingCADTechnology
+END,"Engineering Technology, General",END-EngineeringTechnologyGeneral
+END,Aeronautical/Aerospace Engineering Technologies,END-AeronauticalAerospaceEngineeringTechnologies
+END,Architectural Engineering Technology,END-ArchitecturalEngineeringTechnology
+END,Automotive Engineering Technology,END-AutomotiveEngineeringTechnology
+END,Civil Engineering Technology,END-CivilEngineeringTechnology
+END,Computer Engineering Technology,END-ComputerEngineeringTechnology
+END,Construction/Building Technology,END-ConstructionBuildingTechnology
+END,"Electrical, Electronics Engineering Technologies",END-ElectricalElectronicsEngineeringTechnologies
+END,Electromechanical/Biomedical Engineering Technologies,END-ElectromechanicalBiomedicalEngineeringTechnologies
+END,Environmental Control Technologies,END-EnvironmentalControlTechnologies
+END,Industrial Production Technologies,END-IndustrialProductionTechnologies
+END,Mechanical Engineering Technology,END-MechanicalEngineeringTechnology
+END,Quality Control & Safety Technologies,END-QualityControlSafetyTechnologies
+END,Surveying Technology,END-SurveyingTechnology
+END,– not listed here –,END-notlistedhere
+LAN,"English Language & Literature, General",LAN-EnglishLanguageLiteratureGeneral
+LAN,American/English Literature,LAN-AmericanEnglishLiterature
+LAN,Creative Writing,LAN-CreativeWriting
+LAN,Public Speaking,LAN-PublicSpeaking
+LAN,"Foreign Languages/Literatures, General",LAN-ForeignLanguagesLiteraturesGeneral
+LAN,Asian Languages & Literatures,LAN-AsianLanguagesLiteratures
+LAN,Classical/Ancient Languages & Literatures,LAN-ClassicalAncientLanguagesLiteratures
+LAN,Comparative Literature,LAN-ComparativeLiterature
+LAN,French Language & Literature,LAN-FrenchLanguageLiterature
+LAN,German Language & Literature,LAN-GermanLanguageLiterature
+LAN,Linguistics,LAN-Linguistics
+LAN,Middle Eastern Languages & Literatures,LAN-MiddleEasternLanguagesLiteratures
+LAN,Spanish Language & Literature,LAN-SpanishLanguageLiterature
+LAN,– not listed here –,LAN-notlistedhere
+HEA,"Health Services Administration,General",HEA-HealthServicesAdministrationGeneral
+HEA,Hospital/Facilities Administration,HEA-HospitalFacilitiesAdministration
+HEA,Medical Office/Secretarial,HEA-MedicalOfficeSecretarial
+HEA,Medical Records,HEA-MedicalRecords
+HEA,"Medical/Clinical Assisting, General",HEA-MedicalClinicalAssistingGeneral
+HEA,Dental Assisting,HEA-DentalAssisting
+HEA,Medical Assisting,HEA-MedicalAssisting
+HEA,Occupational Therapy Assisting,HEA-OccupationalTherapyAssisting
+HEA,Physical Therapy Assisting,HEA-PhysicalTherapyAssisting
+HEA,Veterinarian Assisting/Technology,HEA-VeterinarianAssistingTechnology
+HEA,– not listed here –,HEA-notlistedhere
+SCI,Chiropractic (Pre-Chiropractic),SCI-ChiropracticPreChiropractic
+SCI,Dental Hygiene,SCI-DentalHygiene
+SCI,Dentistry (Pre-Dentistry),SCI-DentistryPreDentistry
+SCI,Emergency Medical Technology,SCI-EmergencyMedicalTechnology
+SCI,"Health-Related Professions & Services, General",SCI-HealthRelatedProfessionsServicesGeneral
+SCI,Athletic Training,SCI-AthleticTraining
+SCI,"Communication Disorder Services (e.g., Speech Pathology)",SCI-CommunicationDisorderServicesegSpeechPathology
+SCI,Public Health,SCI-PublicHealth
+SCI,"Health/Medical Technology, General",SCI-HealthMedicalTechnologyGeneral
+SCI,Medical Laboratory Technology,SCI-MedicalLaboratoryTechnology
+SCI,Medical Radiologic Technology,SCI-MedicalRadiologicTechnology
+SCI,Nuclear Medicine Technology,SCI-NuclearMedicineTechnology
+SCI,Respiratory Therapy Technology,SCI-RespiratoryTherapyTechnology
+SCI,Surgical Technology,SCI-SurgicalTechnology
+SCI,Medicine (Pre-Medicine),SCI-MedicinePreMedicine
+SCI,"Nursing, Practical/Vocational (LPN)",SCI-NursingPracticalVocationalLPN
+SCI,"Nursing, Registered (BS/RN)",SCI-NursingRegisteredBSRN
+SCI,Optometry (Pre-Optometry),SCI-OptometryPreOptometry
+SCI,Osteopathic Medicine,SCI-OsteopathicMedicine
+SCI,Pharmacy (Pre-Pharmacy),SCI-PharmacyPrePharmacy
+SCI,Physician Assisting,SCI-PhysicianAssisting
+SCI,"Therapy & Rehabilitation, General",SCI-TherapyRehabilitationGeneral
+SCI,Alcohol/Drug Abuse Counseling,SCI-AlcoholDrugAbuseCounseling
+SCI,Massage Therapy,SCI-MassageTherapy
+SCI,Mental Health Counseling,SCI-MentalHealthCounseling
+SCI,Occupational Therapy,SCI-OccupationalTherapy
+SCI,Physical Therapy (Pre-Physical Therapy),SCI-PhysicalTherapyPrePhysicalTherapy
+SCI,Psychiatric/Mental Health Technician,SCI-PsychiatricMentalHealthTechnician
+SCI,Rehabilitation Therapy,SCI-RehabilitationTherapy
+SCI,Vocational Rehabilitation Counseling,SCI-VocationalRehabilitationCounseling
+SCI,Veterinary Medicine (Pre-Veterinarian),SCI-VeterinaryMedicinePreVeterinarian
+SCI,– not listed here –,SCI-notlistedhere
+PHI,Philosophy,PHI-Philosophy
+PHI,Religion,PHI-Religion
+PHI,"Theology, General",PHI-TheologyGeneral
+PHI,Bible/Biblical Studies,PHI-BibleBiblicalStudies
+PHI,Divinity/Ministry,PHI-DivinityMinistry
+PHI,Religious Education,PHI-ReligiousEducation
+PHI,– not listed here –,PHI-notlistedhere
+REP,"Aviation & Airway Science, General",REP-AviationAirwayScienceGeneral
+REP,Aircraft Piloting & Navigation,REP-AircraftPilotingNavigation
+REP,Aviation Management & Operations,REP-AviationManagementOperations
+REP,"Construction Trades (e.g., carpentry, plumbing, electrical)",REP-ConstructionTradesegcarpentryplumbingelectrical
+REP,"Mechanics & Repairers, General",REP-MechanicsRepairersGeneral
+REP,Aircraft Mechanics/Technology,REP-AircraftMechanicsTechnology
+REP,Autobody Repair/Technology,REP-AutobodyRepairTechnology
+REP,Automotive Mechanics/Technology,REP-AutomotiveMechanicsTechnology
+REP,Avionics Technology,REP-AvionicsTechnology
+REP,Diesel Mechanics/Technology,REP-DieselMechanicsTechnology
+REP,Electrical/Electronics Equip Installation & Repair,REP-ElectricalElectronicsEquipInstallationRepair
+REP,Heating/Air Cond/Refrig Install/Repair,REP-HeatingAirCondRefrigInstallRepair
+REP,"Precision Production Trades, General",REP-PrecisionProductionTradesGeneral
+REP,Machine Tool Technology,REP-MachineToolTechnology
+REP,Welding Technology,REP-WeldingTechnology
+REP,"Transportation & Materials Moving (e.g., air, ground, & marine)",REP-TransportationMaterialsMovingegairgroundmarine
+REP,– not listed here –,REP-notlistedhere
+SCI,"Biology, General",SCI-BiologyGeneral
+SCI,Biochemistry & Biophysics,SCI-BiochemistryBiophysics
+SCI,Cell/Cellular Biology,SCI-CellCellularBiology
+SCI,Ecology,SCI-Ecology
+SCI,Genetics,SCI-Genetics
+SCI,Marine/Aquatic Biology,SCI-MarineAquaticBiology
+SCI,Microbiology & Immunology,SCI-MicrobiologyImmunology
+SCI,Zoology,SCI-Zoology
+SCI,"Physical Sciences, General",SCI-PhysicalSciencesGeneral
+SCI,Astronomy,SCI-Astronomy
+SCI,Atmospheric Sciences & Meteorology,SCI-AtmosphericSciencesMeteorology
+SCI,Chemistry,SCI-Chemistry
+SCI,Geological & Earth Sciences,SCI-GeologicalEarthSciences
+SCI,Physics,SCI-Physics
+SCI,– not listed here –,SCI-notlistedhere
+LAW,"Legal Studies, General",LAW-LegalStudiesGeneral
+LAW,Court Reporting,LAW-CourtReporting
+LAW,Law (Pre-Law),LAW-LawPreLaw
+LAW,Legal Administrative Assisting/Secretarial,LAW-LegalAdministrativeAssistingSecretarial
+LAW,Paralegal/Legal Assistant,LAW-ParalegalLegalAssistant
+LAW,"Social Sciences, General",LAW-SocialSciencesGeneral
+LAW,Anthropology,LAW-Anthropology
+LAW,Criminology,LAW-Criminology
+LAW,Economics,LAW-Economics
+LAW,Geography,LAW-Geography
+LAW,History,LAW-History
+LAW,International Relations & Affairs,LAW-InternationalRelationsAffairs
+LAW,Political Science & Government,LAW-PoliticalScienceGovernment
+LAW,"Psychology, Clinical & Counseling",LAW-PsychologyClinicalCounseling
+LAW,"Psychology, General",LAW-PsychologyGeneral
+LAW,Sociology,LAW-Sociology
+LAW,Urban Studies/Urban Affairs,LAW-UrbanStudiesUrbanAffairs
+LAW,– not listed here –,LAW-notlistedhere
